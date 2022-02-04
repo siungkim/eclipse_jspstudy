@@ -16,5 +16,6 @@
 	out.println("<h1>"+"str=>"+str+"</h1>");//웹에 출력->backend(자바)
 	
 %>
+<%=str%>
 </body>
 </html>
