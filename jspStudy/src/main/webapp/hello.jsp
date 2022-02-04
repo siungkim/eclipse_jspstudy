@@ -18,6 +18,5 @@
 %>
 <hr>
 	str의 값출력=<%=str%>
->>>>>>> refs/heads/hotfix
 </body>
 </html>
